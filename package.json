@@ -1,0 +1,16 @@
+{
+  "name": "ai-agency-game",
+  "version": "1.0.0",
+  "description": "An AI Agency game that teaches you how to run an AI agency",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": ["ai", "agency", "game", "education"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
